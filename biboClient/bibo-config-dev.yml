@@ -1,5 +1,6 @@
 bibo-gate:
     server:
         port: 8763
+test: hello
 
 
